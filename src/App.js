@@ -26,9 +26,9 @@ const App = () => {
     if (!input) {
       alert("Veuillez rentrer une nouvelle tâche");
     } else {
-      // Creation copy of the array to add it new task
+      // Creation copy of the array to add a new task
       let tasksCopy = [...tasks];
-      // Adding the new task the array
+      // Adding the new task to the array
       tasksCopy.push({
         // If the input is more than 20 characters return only the 20 first + '...'
         title: input.length > 20 ? input.substring(0, 30) + "..." : input,
@@ -54,6 +54,7 @@ const App = () => {
     tasksCopy.splice(tasksCopy.indexOf(tasksCopy[index]), 1);
     setTasks(tasksCopy);
   };
+
   return (
     <div className="body">
       <Header />
