@@ -6,7 +6,7 @@ const Form = ({ handleSubmit, handleChange, input }) => {
       <input
         value={input}
         onChange={(e) => handleChange(e)}
-        placeholder="new task"
+        placeholder="New task"
       />
       <input value="Add task" type="submit" />
     </form>

@@ -29,7 +29,6 @@ const App = () => {
       // Creation copy of the array to add it new task
       let tasksCopy = [...tasks];
       // Adding the new task the array
-
       tasksCopy.push({
         // If the input is more than 20 characters return only the 20 first + '...'
         title: input.length > 20 ? input.substring(0, 30) + "..." : input,
@@ -45,7 +44,7 @@ const App = () => {
   const handleClickCheck = (index) => {
     let tasksCopy = [...tasks];
     // with the index from .map() I can retrieve the task in the array
-    // I modify the key "done" to flase for true and to true to false
+    // I modify the key "done" to false for true and to true to false
     tasksCopy[index].done = !tasksCopy[index].done;
     setTasks(tasksCopy);
   };
