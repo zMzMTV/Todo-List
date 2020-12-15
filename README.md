@@ -8,9 +8,7 @@ This is a Todo list made with React to be able to visualise what you did and wha
 
 Just run
 
-```bash
-yarn
-```
+`bash yarn`
 
 in your console to install all dependencies and
 
