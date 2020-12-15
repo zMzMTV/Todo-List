@@ -6,14 +6,4 @@ This is a Todo list made with React to be able to visualise what you did and wha
 
 ## Installation
 
-Just run
-
-`bash yarn`
-
-in your console to install all dependencies and
-
-```bash
-yarn start
-```
-
-to launch.
+Just run `yarn` in your console to install all dependencies and `yarn start` to launch.
