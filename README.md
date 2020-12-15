@@ -12,7 +12,7 @@ Just run `yarn` in your console to install all dependencies and `yarn start` to 
 
 - Add task to the app.
 
-- Mark task as done by useing a checkbox.
+- Mark task as done by using a checkbox.
 
 - Delete a task from the app.
 
