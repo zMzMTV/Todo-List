@@ -10,4 +10,4 @@ Just run `yarn` in your console to install all dependencies and `yarn start` to 
 
 ## Features
 
-..\* Add task to the app.
+- Add task to the app.
