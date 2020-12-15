@@ -17,3 +17,7 @@ Just run `yarn` in your console to install all dependencies and `yarn start` to 
 - Delete a task from the app.
 
 ![](https://media.giphy.com/media/J2aYPy0Fd8oPNITB6u/giphy.gif)
+
+## Netlify link
+
+[https://zmzm-todolist.netlify.app/]
