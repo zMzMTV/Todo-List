@@ -1,5 +1,3 @@
-[logo]:
-
 ![](Todolist.gif)
 
 # React Todo List
