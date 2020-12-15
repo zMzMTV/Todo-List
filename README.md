@@ -20,6 +20,6 @@ Just run `yarn` in your console to install all dependencies and `yarn start` to 
 
 Here you can see and try this project :
 
-[https://zmzm-todolist.netlify.app/]
+https://zmzm-todolist.netlify.app/
 
 ![](seeu.gif)
