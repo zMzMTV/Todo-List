@@ -18,6 +18,8 @@ Just run `yarn` in your console to install all dependencies and `yarn start` to 
 
 ## Netlify link
 
+Here you can see and try this project :
+
 [https://zmzm-todolist.netlify.app/]
 
 ![](seeu.gif)
